@@ -48,17 +48,19 @@
 <div align="center">
   
 </div>
-
+<!-- Pacman -->
 <picture>
-  
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oliveirajackson957-ADS/oliveirajackson957-ADS/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oliveirajackson957-ADS/oliveirajackson957-ADS/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oliveirajackson957-ADS/oliveirajackson957-ADS/output/pacman-contribution-graph.svg">
 </picture>
 
 #####
 
-| ![Lara Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=laracmiranda&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laracmiranda&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laracmiranda&theme=midnight_purple) |
+| ![jackson Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oliveirajackson957-ADS&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LARACMIRANDA&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliveirajackson957-ADS&theme=midnight_purple) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laracmiranda&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=laracmiranda&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oliveirajackson957-ADS&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=laracmiranda&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
 | :-: | :-: |
 
 --- 
