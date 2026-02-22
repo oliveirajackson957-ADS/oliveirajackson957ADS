@@ -45,7 +45,7 @@
 </div>
 
 ###
-<div align="center">
+
   
 </div>
 <!-- Pacman -->
@@ -54,6 +54,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oliveirajackson957-ADS/oliveirajackson957-ADS/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oliveirajackson957-ADS/oliveirajackson957-ADS/output/pacman-contribution-graph.svg">
 </picture>
+</div>
 
 #####
 
@@ -72,5 +73,5 @@
 </br> 
 
 <p align="center">
-  Obrigada por visitar meu perfil! 💜
+  Obrigado por visitar meu perfil! 🤗
 </p>
