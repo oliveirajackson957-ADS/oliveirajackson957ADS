@@ -46,14 +46,29 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=oliveirajackson957-ADS&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=oliveirajackson957-ADS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  
 </div>
-###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oliveirajackson957-ADS/oliveirajackson957-ADS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oliveirajackson957-ADS/oliveirajackson957-ADS/output/pacman-contribution-graph-light.svg">
-  <img alt="pacman contribution graph" srcset="https://raw.githubusercontent.com/oliveirajackson957-ADS/oliveirajackson957-ADS/output/pacman-contribution-graph.svg">
+  
 </picture>
 
 #####
+
+| ![Lara Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=laracmiranda&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laracmiranda&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laracmiranda&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laracmiranda&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=laracmiranda&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
+--- 
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeXliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF gandalf" />
+</p>
+
+</br> 
+
+<p align="center">
+  Obrigada por visitar meu perfil! 💜
+</p>
